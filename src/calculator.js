@@ -1,3 +1,4 @@
+// Multiplication feature
 function add(a, b) {
     return a + b;
 }
