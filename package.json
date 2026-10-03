@@ -1,0 +1,16 @@
+{
+  "name": "gitflow-lab-session-05",
+  "version": "1.0.0",
+  "description": "Adaptive Software Engineering Lab Session 05",
+  "main": "src/calculator.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0",
+    "globals": "^17.13.0",
+    "jest": "^29.0.0"
+  }
+}
