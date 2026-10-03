@@ -13,7 +13,7 @@ function multiply(a, b) {
 
 function divide(a, b) {
     if (b === 0) {
-        throw new Error("Cannot divide by zero");
+        throw new Error("Zero cannot be used as divisor");
     }
     return a / b;
 }
